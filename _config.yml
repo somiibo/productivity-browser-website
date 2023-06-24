@@ -27,7 +27,7 @@ app: 'somiibo'
 meta:
   title: "Productivity Browser - Productivity Browser is built for productive working and multi-account sign-in"
   description: "Productivity Browser is built for productive working and multi-account sign-in"
-  og-image: "https://cdn.itwcreativeworks.com/assets/itw-creative-works/images/socials/itw-creative-works-brandmark-square-black-1024x1024.png"
+  og-image: "https://cdn.itwcreativeworks.com/assets/somiibo/images/socials/somiibo-brandmark-square-blue-1024x1024.png"
   keywords: "" # false or blank to disable, comma separated kws
   viewport: "" # string, leave blank to use default
 
@@ -95,7 +95,7 @@ brand:
   name: "Productivity Browser" # example: Google
   type: "Corporation" # example: Corporation
   description: "Productivity Browser is built for productive working and multi-account sign-in!" # example: A search engine company.
-  logo-image: "https://cdn.itwcreativeworks.com/assets/itw-creative-works/images/socials/itw-creative-works-brandmark-square-black-1024x1024.png" # URL | LOCAL path, example: https://defaultogimage.com, /assets/img/og/og.png
+  logo-image: "https://cdn.itwcreativeworks.com/assets/somiibo/images/logo/somiibo-brandmark-blue-1024x1024.png" # URL | LOCAL path, example: https://defaultogimage.com, /assets/img/og/og.png
   logo-image-svg: "https://cdn.itwcreativeworks.com/assets/itw-creative-works/images/logo/itw-creative-works-brandmark-black-x.svg" # URL | LOCAL path, example: https://defaultogimage.com, /assets/img/og/og.svg
   address-locality: "Los Angeles" # String | example: Los Angeles
   address-country: "United States" # String | example: United States
