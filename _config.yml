@@ -26,7 +26,7 @@ version: '1.0.0'
 app: 'somiibo'
 meta:
   title: "Productivity Browser - Productivity Browser is built for productive working and multi-account sign-in"
-  description: "Productivity Browser is built for productive working and multi-account sign-in"
+  description: "Productivity Browser is built for productive working and multi-account sign-in for social media managers, marketers, and growth hackers. Assign different proxies and user agents to tabs, and switch between them in seconds."
   og-image: "https://cdn.itwcreativeworks.com/assets/somiibo/images/socials/somiibo-brandmark-square-blue-1024x1024.png"
   keywords: "" # false or blank to disable, comma separated kws
   viewport: "" # string, leave blank to use default
