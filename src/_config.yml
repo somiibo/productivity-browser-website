@@ -24,8 +24,8 @@ theme:
 
 # Meta
 meta:
-  title: "{{ site.brand.name }} - Multi-account browser for productivity"
-  description: "{{ site.brand.name }} is built for productive working and multi-account sign-in for social media managers, marketers, and growth hackers. Assign different proxies and user agents to tabs, and switch between them in seconds."
+  title: "Multi-Account Browser - Productivity Tools - {{ site.brand.name }}"
+  description: "Streamline productive working and multi-account sign-in with {{ site.brand.name }}, built for social media managers, marketers, and growth hackers. Assign different proxies and user agents to tabs, and switch between them in seconds."
   image: "https://cdn.itwcreativeworks.com/assets/somiibo/images/socials/somiibo-brandmark-square-blue-1024x1024.png"
   keywords: ""
   viewport: ""
@@ -112,7 +112,7 @@ web_manager:
     config:
       timeout: 1000 * 60 * 60 * 4
       title: "Special Offer!"
-      message: "Get 15% off your purchase of our <strong>Premium plans</strong>. <br><br> Get access to all features and unlimited usage."
+      message: "Get 15% off your purchase of our Premium plans. Get access to all features and unlimited usage."
       okButton:
         text: "Claim 15% Discount"
         link: "/pricing?utm_source=exit-popup&utm_medium=popup&utm_campaign={pathname}"
