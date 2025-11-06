@@ -1,6 +1,6 @@
 ---
 ### ALL PAGES ###
-layout: app/blog/post
+layout: blueprint/blog/post
 
 ### POST ONLY ###
 post:
@@ -35,7 +35,7 @@ But wait, there's more! Somiibo isn't just about automation; it's about engageme
 
 In the ever-evolving world of social media, tools like Somiibo are essential. Not only do they enhance productivity, but they also ensure you stay ahead of the curve. For a deeper dive into the world of social media management tools, you can explore resources from [Social Media Examiner](https://www.socialmediaexaminer.com) and [Neil Patel](https://neilpatel.com/blog/social-media-marketing-tools/).
 
-{% include /master/modules/adunits/adsense-in-article.html index="0" %}
+
 
 Whether you're juggling multiple accounts or striving for efficiency, Somiibo is your go-to ally in the quest for social media supremacy. It's about working smarter, not harder, and Somiibo delivers that promise with a smile.
 
@@ -61,6 +61,6 @@ But wait, there's more! If you're curious about how Somiibo can further enhance 
 
 In a world where time is money and efficiency is king, integrating Somiibo into your strategy could be your ticket to soaring success. Whether you're managing multiple accounts or trying to boost your productivity, the Somiibo Productivity Browser might just be the game-changer you've been searching for. Don't believe me? Dive into how [social media managers benefit from multi-account sign-in](https://productivitybrowser.com/blog/how-can-social-media-managers-benefit-from-multi-account-sign-in) and see it for yourself!
 
-{% include /master/modules/adunits/adsense-in-article.html index="1" %}
+
 
 Ultimately, embracing Somiibo is like having a reliable co-pilot on your digital journey. So, why not give it a whirl? Transform your social media strategy, and say goodbye to the chaos. It's time to work smarter, not harder!

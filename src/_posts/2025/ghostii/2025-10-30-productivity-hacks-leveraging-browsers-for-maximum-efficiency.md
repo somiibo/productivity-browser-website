@@ -1,6 +1,6 @@
 ---
 ### ALL PAGES ###
-layout: app/blog/post
+layout: blueprint/blog/post
 
 ### POST ONLY ###
 post:
@@ -37,7 +37,7 @@ And oh, don't forget those delightful keyboard shortcuts. Once you start using t
 
 So, next time you open your browser, remember it's more than a window to the web. It's your gateway to a streamlined, highly efficient workday. And who wouldn't want a slice of that pie? For more tips on maximizing your productivity, check out [Productivity Browser's blog](https://productivitybrowser.com/blog/the-future-of-social-media-management-why-productivity-browsers-matter). Happy browsing!
 
-{% include /master/modules/adunits/adsense-in-article.html index="0" %}
+
 
 ## Top Productivity Extensions: Tools You Need to Know
 
@@ -65,7 +65,7 @@ But how does it work? Imagine you're on a mission, handling social media for sev
 
 Now, you might be wondering about security and efficiency. Fear not! Assigning proxies and user agents to tabs enhances security and keeps things running smoothly. It's like having a personal assistant ensuring each account stays in its lane, avoiding those awkward "Oops, wrong account!" moments.
 
-{% include /master/modules/adunits/adsense-in-article.html index="1" %}
+
 
 For an in-depth look at how proxy and user agent assignments can revolutionize your workflow, check out [The Art of Proxy Assignments](https://productivitybrowser.com/blog/the-art-of-proxy-assignments-enhancing-productivity-with-somiibo). And while you're at it, explore how productivity browsers are changing the game [here](https://productivitybrowser.com/blog/streamline-your-day-how-productivity-browsers-are-changing-the-game).
 
@@ -91,7 +91,7 @@ First up, overloading your browser with extensions. It's tempting to install eve
 
 Next, beware of the tab explosion! It's easy to end up with so many open tabs that your screen looks like a game of digital whack-a-mole. This can lead to distraction and inefficiency. Try using tab management extensions or the built-in tab grouping features to keep things organized. Remember, less is more when it comes to tab chaos.
 
-{% include /master/modules/adunits/adsense-in-article.html index="2" %}
+
 
 Then there's the mistake of ignoring updates. Browsers and extensions frequently update to improve performance and security. Staying on top of these updates ensures your tools are running smoothly and securely. Set your browser to update automatically if possible, so you're always up to date without lifting a finger.
 
